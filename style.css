@@ -31,5 +31,6 @@ body {
     margin-top: 100px;
     color: white;
     border-top: black;
-    
+    z-index: 1;
+
     }
